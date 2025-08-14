@@ -18,6 +18,8 @@ import com.google.firebase.firestore.FirebaseFirestore;
 import java.util.HashMap;
 import java.util.Map;
 
+
+
 public class AddEditNoteFragment extends Fragment {
 
     private EditText editTextTitle, editTextDescription;
