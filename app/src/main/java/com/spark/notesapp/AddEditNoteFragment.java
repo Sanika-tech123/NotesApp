@@ -22,6 +22,8 @@ public class AddEditNoteFragment extends Fragment {
 
     private EditText editTextTitle, editTextDescription;
     private Button buttonSave;
+
+
     private FirebaseFirestore db;
 
     // If editing an existing note

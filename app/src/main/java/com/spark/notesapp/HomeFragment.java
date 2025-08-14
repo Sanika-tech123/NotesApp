@@ -68,6 +68,7 @@ public class HomeFragment extends Fragment {
                     .commit();
         });
 
+
         return view;
     }
 
